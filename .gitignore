@@ -1,0 +1,11 @@
+/vendor
+/uploads-temp
+donation.php
+.htaccess
+login-facebook-rd.php
+login-facebook.php
+login-google.php
+login-twitter.php
+composer.json
+composer.lock
+stripe.php
