@@ -1,16 +1,24 @@
 Team ID: CH404
+
 Group Name: DHAKA_EUROPA
+
 
 
 
 Group Members:
 
 1. Name: Md. Miraz Hossain
+
 Email: miraz15-10829@diu.edu.bd
+
 Mobile: 01744428970
 
+
+
 2.Name: Israt Jahan Urmi
+
 Email :israt15-10799@diu.edu.bd
+
 Mobile : 01917043362
 
 
