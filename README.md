@@ -2,14 +2,7 @@ Team ID: CH404
 
 Group Name: DHAKA_EUROPA
 
-
-
-
-
-
 Group Members:
-
-
 
 1. Name: Md. Miraz Hossain
 
