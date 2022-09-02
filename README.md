@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.mirazhossain.me/europa/hackathon-zero_hunger.png" />
+  <img src="https://raw.miraz-hossain.me/europa/hackathon-zero_hunger.png" />
 </p>
 
 ## Team ID: CH404
